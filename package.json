@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "botkit": "^0.2.0",
-    "slackbots": "^0.5.1"
+    "google": "^2.0.0",
+    "slackbots": "^0.5.1",
+    "to-markdown": "^3.0.0"
   }
 }
